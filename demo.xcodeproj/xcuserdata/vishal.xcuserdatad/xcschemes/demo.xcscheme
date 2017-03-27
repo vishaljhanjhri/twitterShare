@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C9FB1EB81E8990B600530F3F"
-               BuildableName = "twitter.app"
-               BlueprintName = "twitter"
-               ReferencedContainer = "container:twitter.xcodeproj">
+               BlueprintIdentifier = "C906A9DC1E89C32100B7BB2F"
+               BuildableName = "demo.app"
+               BlueprintName = "demo"
+               ReferencedContainer = "container:demo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9FB1EB81E8990B600530F3F"
-            BuildableName = "twitter.app"
-            BlueprintName = "twitter"
-            ReferencedContainer = "container:twitter.xcodeproj">
+            BlueprintIdentifier = "C906A9DC1E89C32100B7BB2F"
+            BuildableName = "demo.app"
+            BlueprintName = "demo"
+            ReferencedContainer = "container:demo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9FB1EB81E8990B600530F3F"
-            BuildableName = "twitter.app"
-            BlueprintName = "twitter"
-            ReferencedContainer = "container:twitter.xcodeproj">
+            BlueprintIdentifier = "C906A9DC1E89C32100B7BB2F"
+            BuildableName = "demo.app"
+            BlueprintName = "demo"
+            ReferencedContainer = "container:demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C9FB1EB81E8990B600530F3F"
-            BuildableName = "twitter.app"
-            BlueprintName = "twitter"
-            ReferencedContainer = "container:twitter.xcodeproj">
+            BlueprintIdentifier = "C906A9DC1E89C32100B7BB2F"
+            BuildableName = "demo.app"
+            BlueprintName = "demo"
+            ReferencedContainer = "container:demo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
